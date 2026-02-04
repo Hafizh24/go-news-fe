@@ -1,4 +1,4 @@
-# BWA News Frontend
+# Go News Frontend
 
 A modern news portal frontend application built with **Next.js 15**, **React 19**, **TypeScript**, and **Tailwind CSS**. This application provides a complete content management system with public-facing news articles and an admin dashboard.
 
